@@ -11,13 +11,3 @@ Charlie, length: 7
 Dan, length: 3
 Eve, length: 3*/
 
-const tab = ['Alice', 'Bob', 'Craig', 'Dan', 'Eve'] ;
-//const str = "";
-for (let i = 0; i < tab.length; i++) {
-  console.log(`${i}, length: ${i.length}`);
-}
-
-for ( const elem of  tab) {
-console.log(`${elem }`);
-  
-}

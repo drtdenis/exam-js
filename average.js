@@ -1,0 +1,4 @@
+function average(myNumber) 
+{
+  foreah
+}
